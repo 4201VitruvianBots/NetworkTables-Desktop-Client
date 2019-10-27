@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wpiutil-java-2019.4.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/wpiutil-java-2019.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

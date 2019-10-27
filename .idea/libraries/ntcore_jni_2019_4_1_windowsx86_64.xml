@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ntcore-jni-2019.4.1-windowsx86-64">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/ntcore-jni-2019.4.1-windowsx86-64.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

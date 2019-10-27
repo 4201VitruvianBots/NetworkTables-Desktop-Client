@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ntcore-java-2019.4.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/ntcore-java-2019.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
